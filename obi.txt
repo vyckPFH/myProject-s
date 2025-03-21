@@ -1,0 +1,2 @@
+                main
+                sout("Hacker Mode");
