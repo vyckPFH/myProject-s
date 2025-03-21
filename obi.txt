@@ -1,2 +1,8 @@
                 main
                 sout("Hacker Mode");
+
+
+                MATEMATICA
+
+                função de complexidade de algoritmos
+                nlogonia
